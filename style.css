@@ -174,8 +174,9 @@ html{
     margin: 4px;
     width: 100%;
     border-radius: 10px;
-    background: white !important;
+    background-color: white !important;
     transition: all 0.35s ease-in-out;
+    border:1px white solid;
   }
 
 
